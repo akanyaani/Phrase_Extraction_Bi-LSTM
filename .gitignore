@@ -1,0 +1,10 @@
+*.xlsx
+*.pyc
+*.csv
+*.p
+*.txt
+*.pdf
+./runs/*
+./data/*
+./model/*
+./papers/*
