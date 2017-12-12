@@ -1,1 +1,2 @@
-# Phrase_Extraction_Bi-LSTM
+Phrase Extraction using Bi-LSTM Tensorflow
+
